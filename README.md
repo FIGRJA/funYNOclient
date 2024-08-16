@@ -4,8 +4,8 @@ This project exist without YNOproject knowledge. And that's why I create it for 
 ### My plans
 
 - [ ] learn programming language
-    - [ ] go
+    - [x] go
     - [ ] C++
-- [ ] analyzing the [YNOserver](https://github.com/ynoproject/ynoserver) backend and drawing up a work plan
+- [ ] analyzing the [YNOserver](https://github.com/ynoproject/ynoserver) backend and drawing up a work plan .
 - [ ] writing the functionality 
     - soon
